@@ -1,0 +1,5 @@
+Makefile
+.dockerignore
+.git/*
+LICENSE
+*.md
